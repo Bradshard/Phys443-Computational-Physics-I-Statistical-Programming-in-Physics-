@@ -7,17 +7,17 @@ Elective Advanced Undergraduate Physics Course:
 goodness of fit.
 
 Syllabus:
- Topics
-o Introduction: basic concepts
-o Python programming
-o Probability & Statistics
-o Bayes’s Theorem
-o Basic distributions: Binomial, Poisson Distributions
-o Gauss Distributions
-o Confidence intervals: definitions, estimation.
-o Hypothesis Testing & Regression Analysis
-o Advanced parameter estimation: maximum likelihood
-o System of liear equations
-o Monte Carlo Method
-o Root programming
-o TensorFlow Deep Neural Learning
+4. Topics
+5. Introduction: basic concepts
+6. Python programming
+7. Probability & Statistics
+8.  Bayes’s Theorem
+9.  Basic distributions: Binomial, Poisson Distributions
+10. Gauss Distributions
+11. Confidence intervals: definitions, estimation.
+12. Hypothesis Testing & Regression Analysis
+13. Advanced parameter estimation: maximum likelihood
+14. System of liear equations
+15. Monte Carlo Method
+16. Root programming
+17. TensorFlow Deep Neural Learning
